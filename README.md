@@ -21,7 +21,8 @@
 
 <!-- 활동 그래프 섹션 -->
 ## 📊 활동 그래프
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=1214alex&theme=react-dark)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=1214alex&theme=react-dark)
+
 
 <!-- 프로젝트 하이라이트 섹션 -->
 ## 🛠️ 주요 프로젝트
