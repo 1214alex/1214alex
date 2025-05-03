@@ -46,15 +46,14 @@
 
 <!-- 트로피 섹션 -->
 ## 🏆 업적
-![Trophy](https://github-profile-trophy.vercel.app/?username=yourusername&theme=dracula)
+![Trophy](https://github-profile-trophy.vercel.app/?username=1214alex&theme=dracula)
 
 <!-- Wakatime 통계 섹션 (옵션) -->
 ## ⏱️ 코딩 시간
-![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=yourwakatimeusername&theme=radical)
 
 <!-- 배경 애니메이션 섹션 (옵션) -->
 ## 🌟 애니메이션
-![Animated SVG](https://your-animation-url.com/animation.svg)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&color=F78166&width=435&lines=👋+Hello!+I'm+1214alex;📦+Building+Real-Time+Web+Apps)
 
 <!-- 마무리 인사 -->
 감사합니다! 😊
