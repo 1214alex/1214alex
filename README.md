@@ -50,6 +50,7 @@
 
 <!-- Wakatime 통계 섹션 (옵션) -->
 ## ⏱️ 코딩 시간
+![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=1214alex&theme=radical)
 
 <!-- 배경 애니메이션 섹션 (옵션) -->
 ## 🌟 애니메이션
